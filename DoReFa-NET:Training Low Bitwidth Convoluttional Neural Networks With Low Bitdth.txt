@@ -1,0 +1,3 @@
+2.1 整数乘法
+2.2 量化成Bernoulli distribution 和 截断 和他们的导数
+
